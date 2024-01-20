@@ -1,0 +1,13 @@
+ ReadVarsESO
+ processing:sim\idfs\bldg_2x3.rvi
+ input file:sim\idfs\eplusout.eso
+ output file:sim\idfs\eplusout.csv
+ getting all vars from:sim\idfs\eplusout.eso
+  number variables requested for output=          24
+ ReadVars Run Time=00hr 00min  0.14sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:sim\idfs\bldg_2x3.mvi
+ Requested ESO file=sim\idfs\eplusout.mtr
+ does not exist.  ReadVarsESO program terminated.
+ ReadVarsESO program terminated.

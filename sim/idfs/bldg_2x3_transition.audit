@@ -1,0 +1,7 @@
+
+Conversion 23.1 => 23.2
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- C:\Users\x_np_\graphRL\bldg_models\arch_modelling_for_dataset\sim\idfs\bldg_2x3.idf

@@ -1,0 +1,566 @@
+
+ Meters for 9,OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+
+ Meters for 94,OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J]
+
+ Meters for 147,OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+
+ Meters for 184,OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J]
+
+ Meters for 213,OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+
+ Meters for 250,OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J]
+
+ Meters for 279,OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+
+ Meters for 316,OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J]
+
+ Meters for 345,OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+
+ Meters for 382,OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J]
+
+ Meters for 411,OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+
+ Meters for 448,OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy [J] * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J]
+
+ Meters for 475,VAV HW RHT COIL 1-01:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 500,VAV HW RHT COIL 1-01:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 537,VAV HW RHT COIL 1-02:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 538,VAV HW RHT COIL 1-02:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 539,VAV HW RHT COIL 1-03:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 540,VAV HW RHT COIL 1-03:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 541,VAV HW RHT COIL 2-04:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 542,VAV HW RHT COIL 2-04:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 543,VAV HW RHT COIL 2-05:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 544,VAV HW RHT COIL 2-05:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 545,VAV HW RHT COIL 2-06:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 546,VAV HW RHT COIL 2-06:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 547,HW HTG COIL - L01:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 548,HW HTG COIL - L01:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 549,HW HTG COIL - L02:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 550,HW HTG COIL - L02:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 551,VAR SPD FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 600,VAR SPD FAN 1:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 601,2 SPD DX CLG COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 614,2 SPD DX CLG COIL:Cooling Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 639,2 SPD DX CLG COIL 1:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 640,2 SPD DX CLG COIL 1:Cooling Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 641,HW BOILER:Boiler Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Boilers:EnergyTransfer [J]
+
+ Meters for 666,HW BOILER:Boiler NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 715,HW BOILER:Boiler Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=Boiler Parasitic:Heating:Electricity [J]
+
+ Meters for 752,HW BOILER:Boiler Ancillary NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=Boiler Parasitic:Heating:NaturalGas [J]
+
+ Meters for 765,VAR SPD PUMP:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 790,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 815,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 816,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  VAV HW RHT COIL 1-01:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-02:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-03:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-04:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-05:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-06:Heating Coil Heating Energy
+  HW HTG COIL - L01:Heating Coil Heating Energy
+  HW HTG COIL - L02:Heating Coil Heating Energy
+  2 SPD DX CLG COIL:Cooling Coil Total Cooling Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Total Cooling Energy
+  HW BOILER:Boiler Heating Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 1-01 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-01 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-01:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 1-02 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-02:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-02 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-02:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 1-03 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 1-03:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 1-03 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 1-03:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 2-04 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-04:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-04 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-04:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 2-05 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-05:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-05 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-05:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=EnergyTransfer:Zone:OPEN OFFICE 2-06 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Heating:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPEN OFFICE 2-06:Zone Air System Sensible Heating Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPEN OFFICE 2-06 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPEN OFFICE 2-06:Zone Air System Sensible Cooling Energy * 2  (Zone Multiplier = 2, Zone List Multiplier = 1)
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  VAV HW RHT COIL 1-01:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-02:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-03:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-04:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-05:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-06:Heating Coil Heating Energy
+  HW HTG COIL - L01:Heating Coil Heating Energy
+  HW HTG COIL - L02:Heating Coil Heating Energy
+  2 SPD DX CLG COIL:Cooling Coil Total Cooling Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Total Cooling Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  VAV HW RHT COIL 1-01:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-02:Heating Coil Heating Energy
+  VAV HW RHT COIL 1-03:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-04:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-05:Heating Coil Heating Energy
+  VAV HW RHT COIL 2-06:Heating Coil Heating Energy
+  HW HTG COIL - L01:Heating Coil Heating Energy
+  HW HTG COIL - L02:Heating Coil Heating Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  VAV HW RHT COIL 1-01:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-02:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-03:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-04:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-05:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-06:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L01:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L02:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=PlantLoopHeatingDemand:HVAC [J], ResourceType=PlantLoopHeatingDemand, Group=HVAC, contents are:
+  VAV HW RHT COIL 1-01:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-02:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-03:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-04:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-05:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-06:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L01:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L02:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=HeatingCoils:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=HeatingCoils, contents are:
+  VAV HW RHT COIL 1-01:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-02:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 1-03:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-04:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-05:Heating Coil Source Side Heat Transfer Energy
+  VAV HW RHT COIL 2-06:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L01:Heating Coil Source Side Heat Transfer Energy
+  HW HTG COIL - L02:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  VAR SPD FAN:Fan Electricity Energy
+  VAR SPD FAN 1:Fan Electricity Energy
+  2 SPD DX CLG COIL:Cooling Coil Electricity Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Electricity Energy
+  HW BOILER:Boiler Ancillary Electricity Energy
+  VAR SPD PUMP:Pump Electricity Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  VAR SPD FAN:Fan Electricity Energy
+  VAR SPD FAN 1:Fan Electricity Energy
+  2 SPD DX CLG COIL:Cooling Coil Electricity Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Electricity Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  VAR SPD FAN:Fan Electricity Energy
+  VAR SPD FAN 1:Fan Electricity Energy
+
+ For Meter=General:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  VAR SPD FAN:Fan Electricity Energy
+  VAR SPD FAN 1:Fan Electricity Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  2 SPD DX CLG COIL:Cooling Coil Total Cooling Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Total Cooling Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  2 SPD DX CLG COIL:Cooling Coil Electricity Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Electricity Energy
+
+ For Meter=General:Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  2 SPD DX CLG COIL:Cooling Coil Electricity Energy
+  2 SPD DX CLG COIL 1:Cooling Coil Electricity Energy
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  HW BOILER:Boiler Heating Energy
+
+ For Meter=Boilers:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Boilers, contents are:
+  HW BOILER:Boiler Heating Energy
+
+ For Meter=NaturalGas:Facility [J], ResourceType=NaturalGas, contents are:
+  HW BOILER:Boiler NaturalGas Energy
+  HW BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=NaturalGas:Plant [J], ResourceType=NaturalGas, Group=Plant, contents are:
+  HW BOILER:Boiler NaturalGas Energy
+  HW BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  HW BOILER:Boiler NaturalGas Energy
+  HW BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=General:Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  HW BOILER:Boiler NaturalGas Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  HW BOILER:Boiler Ancillary Electricity Energy
+  VAR SPD PUMP:Pump Electricity Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  HW BOILER:Boiler Ancillary Electricity Energy
+
+ For Meter=Boiler Parasitic:Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  HW BOILER:Boiler Ancillary Electricity Energy
+
+ For Meter=Boiler Parasitic:Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  HW BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  VAR SPD PUMP:Pump Electricity Energy
+
+ For Meter=General:Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  VAR SPD PUMP:Pump Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

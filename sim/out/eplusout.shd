@@ -1,0 +1,327 @@
+==== Base does not Surround subsurface details ====
+Surface=FACE 4 No-Overlap
+Surface#=    2 NSides=    4
+Vertex     1=(           2.13,          11.58,           3.96)
+Vertex     2=(          32.31,          11.58,           3.96)
+Vertex     3=(          32.31,          11.58,           0.00)
+Vertex     4=(           2.13,          11.58,           0.00)
+SubSurface=FACE 5
+Surface#=    7 NSides=    4
+Vertex     1=(          20.12,          11.58,           2.13)
+Vertex     2=(          20.12,          11.58,           0.00)
+Vertex     3=(          14.02,          11.58,           0.00)
+Vertex     4=(          14.02,          11.58,           2.13)
+================================
+==== Base does not Surround subsurface details ====
+Surface=FACE 13 No-Overlap
+Surface#=   12 NSides=    4
+Vertex     1=(          32.31,          11.58,           3.96)
+Vertex     2=(          64.62,          11.58,           3.96)
+Vertex     3=(          64.62,          11.58,           0.00)
+Vertex     4=(          32.31,          11.58,           0.00)
+SubSurface=FACE 14
+Surface#=   15 NSides=    4
+Vertex     1=(          50.90,          11.58,           2.13)
+Vertex     2=(          50.90,          11.58,           0.00)
+Vertex     3=(          44.81,          11.58,           0.00)
+Vertex     4=(          44.81,          11.58,           2.13)
+================================
+==== Base does not Surround subsurface details ====
+Surface=FACE 21 No-Overlap
+Surface#=   19 NSides=    4
+Vertex     1=(          64.62,          11.58,           3.96)
+Vertex     2=(          96.93,          11.58,           3.96)
+Vertex     3=(          96.93,          11.58,           0.00)
+Vertex     4=(          64.62,          11.58,           0.00)
+SubSurface=FACE 22
+Surface#=   22 NSides=    4
+Vertex     1=(          85.95,          11.58,           2.13)
+Vertex     2=(          85.95,          11.58,           0.00)
+Vertex     3=(          79.86,          11.58,           0.00)
+Vertex     4=(          79.86,          11.58,           2.13)
+================================
+Shadowing Combinations
+..Solar Distribution=FullInteriorAndExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=FACE 2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 4
+...Surface=FACE 6
+...Surface=FACE 7
+...Surface=FACE 0
+...Surface=FACE 1
+...Surface=FACE 5
+Number of receiving sub surfaces=1
+....Surface=FACE 3
+==================================
+Surface=FACE 3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=FACE 5
+==================================
+Surface=FACE 5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 7 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 0 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 11 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 13 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=FACE 14
+==================================
+Surface=FACE 14 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 17 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 19
+...Surface=FACE 20
+...Surface=FACE 21
+...Surface=FACE 15
+...Surface=FACE 16
+...Surface=FACE 22
+Number of receiving sub surfaces=1
+....Surface=FACE 18
+==================================
+Surface=FACE 18 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 19 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 20 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 21 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=FACE 22
+==================================
+Surface=FACE 22 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 15 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 16 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 25 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 27
+...Surface=FACE 29
+...Surface=FACE 30
+...Surface=FACE 23
+...Surface=FACE 24
+...Surface=FACE 28
+Number of receiving sub surfaces=1
+....Surface=FACE 26
+==================================
+Surface=FACE 26 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 27 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 25
+...Surface=FACE 29
+...Surface=FACE 30
+...Surface=FACE 23
+...Surface=FACE 24
+...Surface=FACE 26
+Number of receiving sub surfaces=1
+....Surface=FACE 28
+==================================
+Surface=FACE 28 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 29 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 30 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 23 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 24 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 33 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 34 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 35 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 36 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=5
+...Surface=FACE 33
+...Surface=FACE 34
+...Surface=FACE 35
+...Surface=FACE 31
+...Surface=FACE 32
+Number of receiving sub surfaces=1
+....Surface=FACE 37
+==================================
+Surface=FACE 37 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 31 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 32 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 40 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 42
+...Surface=FACE 43
+...Surface=FACE 44
+...Surface=FACE 38
+...Surface=FACE 39
+...Surface=FACE 45
+Number of receiving sub surfaces=1
+....Surface=FACE 41
+==================================
+Surface=FACE 41 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 42 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 43 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 44 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=6
+...Surface=FACE 40
+...Surface=FACE 42
+...Surface=FACE 43
+...Surface=FACE 38
+...Surface=FACE 39
+...Surface=FACE 41
+Number of receiving sub surfaces=1
+....Surface=FACE 45
+==================================
+Surface=FACE 45 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 38 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FACE 39 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
